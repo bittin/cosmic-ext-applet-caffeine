@@ -1,1 +1,12 @@
 stay-awake = Stanna vaken
+fifteen-minutes = 15 minuter
+thirty-minutes = 30 minuter
+one-hour = 1 timme
+two-hours = 2 timmar
+four-hours = 4 timmar
+custom-duration = Anpassad varaktighet
+back = Tillbaka
+start = Starta
+minutes = Minuter
+settings = Inställningar
+remember-state = Kom ihåg tillstånd
